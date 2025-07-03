@@ -20,6 +20,7 @@
     "mongoose": "^8.16.1",
     "nodemailer": "^7.0.3",
     "passport": "^0.6.0",
-    "passport-google-oauth20": "^2.0.0"
+    "passport-google-oauth20": "^2.0.0",
+    "vercel": "^44.2.11"
   }
 }
